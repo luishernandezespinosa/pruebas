@@ -2,6 +2,8 @@
 //file : app/config/constants.php
 
 return [
-    'APP_LOGO' => 'imagenes/l.png'
+    'APP_LOGO' => url('imagenes/l.png'),
+
+    'APP_FAVICON' => url('imagenes/favicon.ico')
 
 ];
